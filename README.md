@@ -1,6 +1,6 @@
 # Managed Terraform Versions
 
-This is an example repo to this [blog post]().
+This is an example repo to this [blog post](https://medium.com/rocket-travel-engineering/setting-up-a-managed-local-terraform-version-89733f2198a1).
 
 The usage below assumes you have the AWS environment variables or the `.aws/credentials` setup.
 
